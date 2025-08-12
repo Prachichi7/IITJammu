@@ -87,4 +87,4 @@ Currently, we have completed the **data cleaning and missing value analysis** ph
 ---
 
 ## GitHub/Colab Link
-https://github.com/Prachichi7/IITJammu
+https://github.com/Prachichi7/IITJammu-ds-ai-final-project
