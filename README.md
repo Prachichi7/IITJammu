@@ -8,11 +8,11 @@ Currently, we have completed the **data cleaning and missing value analysis** ph
 
 ## 👥 Team Members
 
-| Name           | Email            | Role |
-|----------------|------------------|------|
-| Prachi Gautam  | prachi@abc.edu   | Data Loading & Missing Value Analysis |
-| Harsh Sharma   | teammate1@abc.edu| Data Cleaning Support |
-| Akash Lone     | teammate2@abc.edu| Documentation & Visualization |
+| Name           | Email                       | Role |
+|----------------|-----------------------------|------|
+| Prachi Gautam  | prachi2011gautam@gmail.com  | Data Loading & Missing Value Analysis |
+| Harsh Sharma   | harshjnv2@gmail.com         | Data Cleaning Support |
+| Akash Lone     | akashmohdlone@gmail.com     | Documentation & Visualization |
 
 ---
 
